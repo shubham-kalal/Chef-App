@@ -320,7 +320,7 @@ header {
     }
     .service-container{
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(420px, auto));
+        grid-template-columns: repeat(auto-fit, minmax(290px, auto));
     }
     .chefs .chefs-container{
         display: flex;
